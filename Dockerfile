@@ -1,4 +1,4 @@
-FROM centos:7
+FROM registry.cn-hangzhou.aliyuncs.com/eryuan222/haha:2
 MAINTAINER shenzhijie
 WORKDIR /mydocker/jdk
 RUN mkdir /mydocker/jdk/jdk8
